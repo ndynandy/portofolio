@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio Saya</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#beranda">Beranda</a></li>
+                <li><a href="#tentang">Tentang Saya</a></li>
+                <li><a href="#proyek">Proyek</a></li>
+                <li><a href="#kontak">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="beranda">
+        <h1>Selamat datang di Portofolio Saya</h1>
+        <p>Perkenalkan, saya [Nama Anda], seorang [pekerjaan/keterampilan].</p>
+    </section>
+
+    <section id="tentang">
+        <h2>Tentang Saya</h2>
+        <p>Saya adalah seorang [deskripsi tentang diri Anda], dengan pengalaman dalam [keterampilan dan proyek terkait].</p>
+    </section>
+
+    <section id="proyek">
+        <h2>Proyek Saya</h2>
+        <div class="proyek-item">
+            <h3>Proyek 1</h3>
+            <p>Deskripsi singkat proyek 1.</p>
+        </div>
+        <div class="proyek-item">
+            <h3>Proyek 2</h3>
+            <p>Deskripsi singkat proyek 2.</p>
+        </div>
+        <!-- Tambahkan proyek lainnya di sini -->
+    </section>
+
+    <section id="kontak">
+        <h2>Kontak</h2>
+        <p>Jika kamu tertarik bekerja sama, silakan hubungi saya di [email/telepon].</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 [Nama Anda]. Semua hak dilindungi.</p>
+    </footer>
+</body>
+</html>
